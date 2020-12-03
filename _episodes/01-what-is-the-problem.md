@@ -40,6 +40,7 @@ Some of this information might describe the particulars of a whole study. Some o
 > Look at the content of the file and discuss with your neighbour
 >
 > - What are some of the problems you see with the descriptions of the samples?
+>
 {: .discussion}
 
 
