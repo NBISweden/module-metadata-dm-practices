@@ -14,7 +14,9 @@ Someone once said “A biologist would rather share a toothbrush with another bi
 
 A **Controlled vocabulary** is a list of terms that describes a certain domain of knowledge. In the controlled vocabulary you only use one term to describe one particular phenomenon, excluding all other synonyms. The vocabulary should provide a _definition_ for the term, and any _synonyms_.
 
-> ## How many terms for Breas Cancer can you think of?
+> ## How many terms for Breast Cancer can you think of?
+>
+> What would you...
 >
 > > ##Solution
 > >
@@ -45,8 +47,8 @@ An **ontology** (in this context) is a controlled vocabulary, that appart from b
 
 For example,
 
-- in the [Humans Phenotype Ontology](), **Myocardial infarction** is a _type_ of **Abnormal cardiovascular system physiology** is a _type_ of **Abnormality of the cardiovascular system** is a _type_ of **Phenotypic abnormality**.
-- in the [BRENDA Tissue Ontology](), the **heart valve** is a _part_ of the **heart** is a _part_ of the **cardiovascular system** is a _part_ of the whole body.
+- in the [Human Phenotype Ontology](https://www.ebi.ac.uk/ols/ontologies/hp), **Myocardial infarction** is a _type_ of **Abnormal cardiovascular system physiology** is a _type_ of **Abnormality of the cardiovascular system** is a _type_ of **Phenotypic abnormality**.
+- in the [BRENDA Tissue Ontology](https://www.ebi.ac.uk/ols/ontologies/bto), the **heart valve** is a _part_ of the **heart** is a _part_ of the **cardiovascular system** is a _part_ of the whole body.
 
 As you see, depending on the way you look at reality, the domains of knowledge have to be structured in several different ways. There is no all-encompassing ontology that captures everything. You will have to rely on several different ontologies to describe your research. The question is which to choose.
 
