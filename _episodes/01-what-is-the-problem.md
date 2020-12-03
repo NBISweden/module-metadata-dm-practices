@@ -24,7 +24,7 @@ Some of this information might describe the particulars of a whole study. Some o
 - Geolocation(s) of samples
 - Licence for re-use of the data
 
-> Discussion
+> ## Challenge
 >
 > If you have not done so already, create a folder on your computer for the course
 >
@@ -41,7 +41,7 @@ Some of this information might describe the particulars of a whole study. Some o
 >
 > - What are some of the problems you see with the descriptions of the samples?
 >
-{: .discussion}
+{: .challenge}
 
 
 To be properly useful, the metadata should be understandable over time - for you and others. And to follow the FAIR principles, others means computer programs as well as humans. You also need to be consistent when describing metadata, e.g. do not mix different date formats, or use synonyms for the same phenomena.

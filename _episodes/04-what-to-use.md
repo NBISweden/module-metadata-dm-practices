@@ -1,0 +1,45 @@
+---
+title: "How do I know what to use?"
+teaching: 10
+exercises: 20
+questions:
+- "?"
+objectives:
+- "To understand "
+keypoints:
+- ""
+---
+
+Given that reality is hard to categorise, and that different types of research investigate their subject matter from various different angles, there has emerged numerous different ontologies and metadata standards. In Life Science alone there are currently more than 800 standards. So how do I know what to use?
+
+If you plan to deposit your data in a public repository (and you should) this is the first place to look for standards. They will have instructions for what metadata information they request for the data that they harbour. If you try to structure your own metadata according to these from the start, submitting your data will be a lot more straight-forward.
+
+
+> ## Exercise: Find a suitable ENA checklist for the data
+>
+> Instruction instruction instruction…
+{: .challenge}
+
+> ## Solution
+>
+> * Do this
+> * Do that
+{: .solution}
+
+Zooma
+
+OLS
+
+FAIRsharing.org is a resource that aims at collecting and connecting existing standards, databases. Use it to find recommended standards for different research domains and databases.
+
+
+> ## Exercise: Find suitable ontologies for your data
+>
+> Instruction instruction instruction…
+{: .challenge}
+
+> ## Solution
+>
+> * Do this
+> * Do that
+{: .solution}
