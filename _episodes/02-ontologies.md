@@ -35,6 +35,7 @@ A **Controlled vocabulary** is a list of terms that describes a certain domain o
 > > - Neoplasms, Breast
 > > - Tumors, Breast
 > {: .solution}
+>
 {: .challenge}
 
 In a publicly managed controlled vocabulary, the terms should also have unique _identifiers_.
