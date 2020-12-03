@@ -34,6 +34,7 @@ A **Controlled vocabulary** is a list of terms that describes a certain domain o
 > > - Mammary Neoplasms, Human
 > > - Neoplasms, Breast
 > > - Tumors, Breast
+> >
 > {: .solution}
 >
 {: .challenge}
