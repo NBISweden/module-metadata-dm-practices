@@ -18,7 +18,7 @@ A **Controlled vocabulary** is a list of terms that describes a certain domain o
 >
 > What would you...
 >
-> > ##Solution
+> > ## Solution
 > >
 > > MeSH lists the following synonyms for “Breast Neoplasm”:
 > >
