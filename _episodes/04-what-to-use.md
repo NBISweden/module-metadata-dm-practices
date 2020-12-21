@@ -29,7 +29,7 @@ It is good practice to make a **data dictionary** for your metadata. This is a f
 >>
 >> * Do this
 >> * Do that
->> {: .solution}
+> {: .solution}
 {: .challenge}
 
 
