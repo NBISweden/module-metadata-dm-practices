@@ -23,12 +23,14 @@ It is good practice to make a **data dictionary** for your metadata. This is a f
 > 2. Open another **empty** spreadsheet file, name it `data_dictionary`.
 > 3. Add the following headings to the `data_dictionary` file:
 > **Current variable name**, **Readable variable name**,	**ENA Variable name**,	**Measurement unit**,	**Allowed values**,	**Definition**,	**Description**
+>
 > 4.
 >
->> ## Solution
->>
->> * Do this
->> * Do that
+> > ## Solution
+> >
+> > * Do this
+> > * Do that
+> >
 > {: .solution}
 {: .challenge}
 
