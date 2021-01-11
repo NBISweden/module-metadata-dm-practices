@@ -14,6 +14,6 @@ A metadata standard could be described as a collection of metadata fields or ele
 
 Standards range from the very generic to the very specific. Let’s have a look at a couple of examples:
 
-An example of a generic standard is the [Dublin Core](https://www.dublincore.org/specifications/dublin-core/dces/) for describing digital and physical resources. In its basic form it specifies 15 elements, such as Creator, Title, Description, Date, etc.
+* The [Dublin Core](https://www.dublincore.org/specifications/dublin-core/dces/) is a generic standard for describing digital and physical resources. In its basic form it specifies 15 elements, such as Creator, Title, Description, Date, etc.
 
-An example of a more specific standard is the [ENA virus pathogen reporting standard checklist](https://www.ebi.ac.uk/ena/browser/view/ERC000033), for reporting metadata of virus pathogen samples associated with genomic data to the European Nucleotide Archive. It has 35 elements, of which 9 are mandatory and 15 recommended. Example of elements are geographic location, host scientific name, host health state, collection date, etc.
+* An example of a more specific standard is the [ENA virus pathogen reporting standard checklist](https://www.ebi.ac.uk/ena/browser/view/ERC000033), for reporting metadata of virus pathogen samples associated with genomic data to the European Nucleotide Archive. It has 35 elements, of which 9 are mandatory and 15 recommended. Example of elements are geographic location, host scientific name, host health state, collection date, etc.
