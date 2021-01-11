@@ -1,5 +1,5 @@
 ---
-title: "Data dictionary"
+title: "Finding ontologies"
 teaching: 10
 exercises: 20
 questions:
