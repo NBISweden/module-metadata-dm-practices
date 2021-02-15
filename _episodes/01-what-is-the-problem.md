@@ -3,7 +3,7 @@ title: "What is the problem"
 teaching: 10
 exercises: 5
 questions:
-- "What is the problem when describing data"
+- "What is the problem when describing data?"
 objectives:
 - "To understand the reasons for consistent standardized ways of describing data"
 keypoints:
@@ -30,7 +30,7 @@ Some of this information might describe the particulars of a whole study. Some o
 >
 > If you have not done so already, create a folder on your computer for the course
 >
-> Download the example datafile [samples_metadata_lesson.csv](files/samples_metadata_lesson.csv), and save it the folder for the course on your computer.
+> Download the example datafile [samples_metadata_lesson.csv](/files/samples_metadata_lesson.csv), and save it the folder for the course on your computer.
 >
 > - This is a so called CSV (Comma Separated Values) file. A CSV file is a text file that contains tabular data, where the content for different columns is separated by commas (,) and often enclosed by quotes (' or “).
 > - CSV files can be opened by text editor programs, as well as by spreadsheet programs such as e.g. Microsoft Excel, LibreOffice Calc, or Google Spreadsheet. Viewing the content of a CSV file will in many cases be easier in a spreadsheet program than in a text editor.
