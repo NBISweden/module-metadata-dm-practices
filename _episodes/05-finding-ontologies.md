@@ -67,11 +67,11 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 > > | animal ID |  |  |  |  |  |
 > > | date |  |  | format: YYYY-MM-DD, >=proj_start_date & <=today | Date of experiment ??? |  |
 > > | mouse line | sub_strain |  |  |  |  |
-> > | strain | strain |  | NCIT ontology: C56BL/6 Mouse (NCIT:C14424),<br> BALB/cJ Mouse (NCIT:C14657) | The mouse strain of the animal |  |
+> > | strain | strain |  | NCIT ontology:<br> C56BL/6 Mouse (NCIT:C14424),<br> BALB/cJ Mouse (NCIT:C14657) | The mouse strain of the animal |  |
 > > | age |  | days,weeks (?) |  | Age of animal |  |
-> > | developmental stage | dev_stage |  | BTO ontology: pup (BTO:0004377), adult (BTO:0001043), embryo (BTO:0000379) |  |  |
+> > | developmental stage | dev_stage |  | BTO ontology:<br> pup (BTO:0004377),<br> adult (BTO:0001043),<br> embryo (BTO:0000379) |  |  |
 > > | sex | sex |  | male, female, unknown | Sex of the animal |  |
-> > | organism part | tissue_type |  | MA ontology: lung (MA:0000415) and brain (MA:0000168) |  |  |
+> > | organism part | tissue_type |  | MA ontology:<br> lung (MA:0000415),<br> brain (MA:0000168) |  |  |
 > > | genotype |  |  |  |  |  |
 > > | experiment type |  |  |  |  |  |
 > > | experiment reference |  |  |  |  |  |
