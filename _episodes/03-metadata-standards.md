@@ -3,11 +3,11 @@ title: "Metadata standards"
 teaching: 10
 exercises: 5
 questions:
-- "?"
+- "What are metadata standards?"
 objectives:
-- "To understand "
+- "To understand what a metadata standard is"
 keypoints:
-- ""
+- "There are generic and domain-specific standards"
 ---
 
 A metadata standard could be described as a collection of metadata fields or elements that are of relevance for the particular type of scientific study data that is to be documented. Such standards will often consist of some elements that are mandatory, some recommended, and some that are optional. They will (at least should) define what type of input values are expected for each element, e.g. free text, date in a specific format, geographical positions, numerical values, and controlled vocabularies or ontologies. Sometimes the element name itself is a specified ontology term. The further we go on being strict about defining the elements and values the more we open up for increasing the FAIRness aspects of the data from a computational point of view.

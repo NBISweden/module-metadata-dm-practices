@@ -7,7 +7,9 @@ questions:
 objectives:
 - "To understand the reasons for consistent standardized ways of describing data"
 keypoints:
-- "Be consistent when describing data <TODO>"
+- "Information about data is called metadata"
+- "Good metadata is a necessity for understanding the data"
+- "Try to be consistent when describing data"
 ---
 
 To understand how the data you produce has been generated, it is important to document descriptions of this, so that you, your collaborators, and someone else can understand it later on. Actually, you yourself is the most likely recipient of this information, because “it is the doom of men that they forget”, as someone said.
@@ -28,12 +30,12 @@ Some of this information might describe the particulars of a whole study. Some o
 >
 > If you have not done so already, create a folder on your computer for the course
 >
-> Download the example datafile Data03.csv, and save it the folder for the course on your computer.
+> Download the example datafile [samples_metadata_lesson.csv](files/samples_metadata_lesson.csv), and save it the folder for the course on your computer.
 >
 > - This is a so called CSV (Comma Separated Values) file. A CSV file is a text file that contains tabular data, where the content for different columns is separated by commas (,) and often enclosed by quotes (' or “).
 > - CSV files can be opened by text editor programs, as well as by spreadsheet programs such as e.g. Microsoft Excel, LibreOffice Calc, or Google Spreadsheet. Viewing the content of a CSV file will in many cases be easier in a spreadsheet program than in a text editor.
 >
-> Open the Data03.csv file in a program of choice.
+> Open the samples_metadata_lesson.csv file in a program of choice.
 >
 > - The first line of the file contains the headers for the different columns. The rest of the lines contain information about a number of samples from a study.
 >

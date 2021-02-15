@@ -3,11 +3,11 @@ title: "Data dictionary"
 teaching: 10
 exercises: 20
 questions:
-- "?"
+- "How do to document the standards to use?"
 objectives:
-- "To understand "
+- "To understand how to document the standards and conventions to use for my data"
 keypoints:
-- ""
+- "Use data dictionaries to document standards for your data"
 ---
 
 It is good practice to make a **data dictionary** for your metadata. This is a file that explains what type of information is supposed to be entered for at particular (meta)data field. This is where you document names of (meta)data fields, expected measurement units, allowed values, and definitions for what the field is about.
@@ -18,7 +18,7 @@ It is good practice to make a **data dictionary** for your metadata. This is a f
 > 1. Open the FILE that you downloaded in [lesson 1](01-what-is-the-problem), a spreadsheet program of you choice (Microsoft Excel, LibreOffice Calc, or Google Spreadsheet, or other).
 > 2. Open another **empty** spreadsheet file, name it `data_dictionary`.
 > 3. Add the following headings to the `data_dictionary` file:
-> **Current variable name**, **Readable variable name**,	**ENA Variable name**,	**Measurement unit**,	**Allowed values**,	**Definition**,	**Description**
+> **Current variable name**, **ENA Variable name**,	**Measurement unit**,	**Allowed values**,	**Definition**,	**Description**
 >
 > 4. Copy the headings of the **FILE file** to the first column (Current variable name) of the `data_dictionary` file, _**one heading term per row**_.
 >   * Now you should have a first row with the headings under step 3, and then one term (from the FILE file headings) per row in the first column.
