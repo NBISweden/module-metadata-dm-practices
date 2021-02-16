@@ -31,7 +31,7 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 > * **dev_stage**, using Zooma
 > * **tissue_type**, using FAIRsharing.org
 >
-> You don't have to stick to the tools specified. Try different the different ones if you want to. As you will probably notice, there is no perfect way that always finds what you want. It will almost always involve a fair bit of trial and error.
+> You don't have to stick to the tools specified. Try the different ones if you want to. As you will probably notice, there is no perfect way that always finds what you want. It will almost always involve a fair bit of trial and error.
 >
 > > ## Solution
 > >
