@@ -79,3 +79,32 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 > >
 > {: .solution}
 {: .challenge}
+
+Below are list for some commonly used ontologies. Please note that this is in no way an exhaustive or a "standard" list.
+
+### "Upper ontologies"
+
+* [Semanticscience Integrated Ontology, SIO](https://bioportal.bioontology.org/ontologies/SIO)
+* [Basic Formal Ontology, BFO](https://bioportal.bioontology.org/ontologies/BFO)
+* [Relations Ontology](https://bioportal.bioontology.org/ontologies/OBOREL)
+* [The Dublin Core (DC) Ontology](http://dublincore.org/)
+
+
+### "Domain ontologies"
+
+* [Gene Ontology, GO ](http://www.geneontology.org/)
+* [Gene Ontology Annotation, GOA](http://www.ebi.ac.uk/GOA/)
+* [Experimental Factor Ontology, EFO](https://bioportal.bioontology.org/ontologies/EFO)
+* [The Environment Ontology, ENVO](http://environmentontology.org)
+* [Mondo Disease Ontology](https://mondo.monarchinitiative.org)
+* [uPheno Ontology](https://github.com/obophenotype/upheno)
+* [The Human Phenotype Ontology](https://hpo.jax.org/app/)
+
+
+### "Other ontologies"
+
+* [The Friend Of A Friend (FOAF) ontology]( http://www.foaf-project.org/)
+* [Research Object Ontology, RDO](https://www.researchobject.org/initiative/research-object-model/)
+* [Data Catalogue Vocabulary, DCAT](https://www.w3.org/TR/vocab-dcat-3/)
+* [Provenance Ontology, PROV-O](https://www.w3.org/TR/prov-o/)
+* [Data Use Ontology](https://github.com/EBISPOT/DUO)
