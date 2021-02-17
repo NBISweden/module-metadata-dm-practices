@@ -10,7 +10,7 @@ keypoints:
 - "Use controlled vocabularies and ontologies when specifying metadata"
 ---
 
-Someone once said “A biologist would rather share a toothbrush with another biologist than share a gene name”. This is probably true for other domains of research too.  If we all stick to our own devices and name things as we see fit without regarding our fellow researchers we run the risk of being inconsistent and unclear. To help with consistency, we can use Controlled vocabularies or Ontologies when describing our data.
+Someone once said “A biologist would rather share a toothbrush with another biologist than share a gene name”. This is probably true for other domains of research too.  If we all stick to our own devices and name things as we see fit without regarding our fellow researchers we run the risk of being inconsistent and unclear. To help with consistency when describing our data, we can use standardized term collections - Controlled vocabularies, Ontologies, Thesauruses, and Taxonomies. _The names for these different types of collections are often used interchangeably_.
 
 A **Controlled vocabulary** is a list of terms that describes a certain domain of knowledge. In the controlled vocabulary you only use one term to describe one particular phenomenon, excluding all other synonyms. The vocabulary should provide a _definition_ for the term, and any _synonyms_. In a publicly managed controlled vocabulary, the terms should also have unique _identifiers_, so that they can be referenced.
 
