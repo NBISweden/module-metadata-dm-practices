@@ -14,5 +14,9 @@ title: Setup
 > **Download** this data file to your computer: [samples_metadata_lesson.csv](files/samples_metadata_lesson.csv)
 {: .prereq}
 
+> ## Presentation
+>
+> Slides for this module are available [here](files/module-metadata-dm-practices.pdf)
+{: .prereq}
 
 {% include links.md %}
