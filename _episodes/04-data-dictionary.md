@@ -52,7 +52,7 @@ If you plan to deposit your data in a public repository (and you should) this is
 > ## Exercise: Look up an ENA checklist to improve the data dictionary
 >
 > In this exercise we are assuming that you are planning to submit data about your samples to the European Nucleotide Archive - ENA. The ENA has set of suggested metadata standards for different types of samples that they call checklists.
-> 1. Go to https://www.ebi.ac.uk/ena/browser/checklists to see the available checklists
+> 1. Go to [https://www.ebi.ac.uk/ena/browser/checklists](https://www.ebi.ac.uk/ena/browser/checklists) to see the available checklists
 > 2. Scroll down the listing until you find the *ERC000011 ENA default sample checklist*
 > 3. The _ENA default sample checklist_ lists the expected name and content for a number of metadata fields that can be submitted for samples. If you put your mouse pointer over the ? icon, you will get a description about of what type of information the different fields are supposed to contain.
 > 4. Open the **data dictionary file** that you started in the previous exercise.
