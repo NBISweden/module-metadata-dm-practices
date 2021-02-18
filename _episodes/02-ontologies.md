@@ -12,8 +12,6 @@ keypoints:
 
 Someone once said “A biologist would rather share a toothbrush with another biologist than share a gene name”. This is probably true for other domains of research too.  If we all stick to our own devices and name things as we see fit without regarding our fellow researchers we run the risk of being inconsistent and unclear. To help with consistency when describing our data, we can use standardized term collections - Controlled vocabularies, Ontologies, Thesauruses, and Taxonomies. _The names for these different types of collections are often used interchangeably_.
 
-A **Controlled vocabulary** is a list of terms that describes a certain domain of knowledge. In the controlled vocabulary you only use one term to describe one particular phenomenon, excluding all other synonyms. The vocabulary should provide a _definition_ for the term, and any _synonyms_. In a publicly managed controlled vocabulary, the terms should also have unique _identifiers_, so that they can be referenced.
-
 > ## How many terms for Breast Cancer can you think of?
 >
 > Discuss with your neighbour about what other terms you could use for "Breast Cancer".
@@ -22,22 +20,47 @@ A **Controlled vocabulary** is a list of terms that describes a certain domain o
 > >
 > > MeSH lists the following synonyms for “Breast Neoplasm”:
 > >
-> > - Breast Cancer
-> > - Breast Carcinoma
+> > - Breast Neoplasm
+> > - Neoplasm, Breast
 > > - Breast Tumors
+> > - Breast Tumor
+> > - Tumor, Breast
+> > - Tumors, Breast
+> > - Neoplasms, Breast
+> > - Breast Cancer
+> > - Cancer, Breast
+> > - Mammary Cancer
+> > - Cancer, Mammary
+> > - Cancers, Mammary
+> > - Mammary Cancers
+> > - Malignant Neoplasm of Breast
+> > - Breast Malignant Neoplasm
+> > - Breast Malignant Neoplasms
+> > - Malignant Tumor of Breast
+> > - Breast Malignant Tumor
+> > - Breast Malignant Tumors
 > > - Cancer of Breast
 > > - Cancer of the Breast
-> > - Human Mammary Carcinoma
-> > - Malignant Neoplasm of Breast
-> > - Malignant Tumor of Breast
-> > - Mammary Cancer
 > > - Mammary Carcinoma, Human
-> > - Mammary Neoplasm, Human
+> > - Carcinoma, Human Mammary
+> > - Carcinomas, Human Mammary
+> > - Human Mammary Carcinomas
+> > - Mammary Carcinomas, Human
+> > - Human Mammary Carcinoma
 > > - Mammary Neoplasms, Human
-> > - Neoplasms, Breast
-> > - Tumors, Breast
+> > - Human Mammary Neoplasm
+> > - Human Mammary Neoplasms
+> > - Neoplasm, Human Mammary
+> > - Neoplasms, Human Mammary
+> > - Mammary Neoplasm, Human
+> > - Breast Carcinoma
+> > - Breast Carcinomas
+> > - Carcinoma, Breast
+> > - Carcinomas, Breast
 > {: .solution}
 {: .challenge}
+
+A **Controlled vocabulary** is a list of terms that describes a certain domain of knowledge. In the controlled vocabulary you only use one term to describe one particular phenomenon, excluding all other synonyms. The vocabulary should provide a _definition_ for the term, and any _synonyms_. In a publicly managed controlled vocabulary, the terms should also have unique _identifiers_, so that they can be referenced.
 
 An **ontology** (in this context) is a controlled vocabulary, that appart from being a list of agreed terms, also captures relationships between these terms.
 
