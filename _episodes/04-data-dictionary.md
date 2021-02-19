@@ -27,7 +27,7 @@ It is good practice to make a **data dictionary** for your metadata. This is a f
 >
 > > ## Solution
 > >
-> > The beginning av the data dictionary could now look something like this:
+> > The beginning of the data dictionary could now look something like this:
 > >
 > > | Current variable name | ENA Variable name | Measurement unit | Allowed values | Definition | Description |
 > > |-|-|-|-|-|-|
