@@ -42,12 +42,12 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 > > * Add the name of the ontology and the terms you have choosen to the allowed values columns
 > >
 > > **strain**
-> > * Go to OLS, search for one of the strain names in the FILE, e.g. _C56BL/6_
+> > * Go to OLS, search for one of the strain names in the FILE, e.g. BALB/cJ
 > > * Choose one of the search results that seems appropriate, e.g. from the _NCI Thesaurus OBO Edition - **NCIT**_
-> > * The term for this mouse strain in NCIT is **C56BL/6 Mouse**
+> > * The term for this mouse strain in NCIT is **BALB/cJ Mouse**
 > > * Click on the Show siblings button in the ontology tree, on the left
 > >   * This will show all other mouse strains defined in this ontology.
-> > * Look for BALB/cJ. The term for this mouse strain in NCIT is **BALB/cJ Mouse**
+> > * Look for _C56BL/6_. The term for this mouse strain in NCIT is **_C56BL/6_ Mouse**
 > > * So **NCIT** would be a suitable ontology, and C56BL/6 Mouse (NCIT:C14424),BALB/cJ Mouse (NCIT:C14657) the terms to use for the strains used.
 > >
 > > **dev_stage**
