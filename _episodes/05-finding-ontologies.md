@@ -26,14 +26,20 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 
 > ## Exercise: Find suitable ontologies for your data
 >
-> To be more specific about the terms used for some of the fields, try to find a suitable ontology and the terms to use for the values that will be in the FILE, for these fields:
+> To be more specific about the terms used for some of the fields, try to find a suitable ontology and the terms to use for the values that will be in your data file ([samples_metadata_lesson.csv](../files/samples_metadata_lesson.csv)), for these fields:
 > * **strain**, using OLS
 > * **dev_stage**, using Zooma
 > * **tissue_type**, using FAIRsharing.org
 >
+> Add the name of the ontology and the terms you have selected to the **data dictionary**.
+>
 > You don't have to stick to the tools specified. Try the different ones if you want to. As you will probably notice, there is no perfect way that always finds what you want. It will almost always involve a fair bit of trial and error.
 >
 > > ## Solution
+> >
+> > * For each field you will have to look into the data file to see what values are there now.
+> > * Then try to find an ontology and the appropriate terms in that ontology
+> > * Add the name of the ontology and the terms you have choosen to the allowed values columns
 > >
 > > **strain**
 > > * Go to OLS, search for one of the strain names in the FILE, e.g. _C56BL/6_
