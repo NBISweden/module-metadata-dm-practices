@@ -30,7 +30,7 @@ Some of this information might describe the particulars of a whole study. Some o
 >
 > If you have not done so already, create a folder on your computer for the course
 >
-> Download the example datafile [samples_metadata_lesson.csv](../files/samples_metadata_lesson.csv), and save it the folder for the course on your computer.
+> Download the example datafile [samples_metadata_lesson.csv](../files/samples_metadata_lesson.csv), and save it in the folder for the course on your computer.
 >
 > - This is a so called CSV (Comma Separated Values) file. A CSV file is a text file that contains tabular data, where the content for different columns is separated by commas (,) and often enclosed by quotes (' or “).
 > - CSV files can be opened by text editor programs, as well as by spreadsheet programs such as e.g. Microsoft Excel, LibreOffice Calc, or Google Spreadsheet. Viewing the content of a CSV file will in many cases be easier in a spreadsheet program than in a text editor.
@@ -46,6 +46,6 @@ Some of this information might describe the particulars of a whole study. Some o
 {: .challenge}
 
 
-To be properly useful, the metadata should be understandable over time - for you and others. And to follow the FAIR principles, others means computer programs as well as humans. You also need to be consistent when describing metadata, e.g. do not mix different date formats, or use synonyms for the same phenomena.
+To be properly useful, the metadata should be understandable over time - for you and others. And to follow the FAIR principles, _others_ means computer programs as well as humans. You also need to be consistent when describing metadata, e.g. do not mix different date formats, or use synonyms for the same phenomena.
 
 How much metadata should you document? You can look at this at different levels. The minimal level is the metadata necessary for you to do your particular analysis. A further level is the metadata necessary for someone to understand the data. Going further, documenting all the metadata you have might allow future analysis (by you or others) outside of the scope of your original study. A good principle can be “how can I make this dataset as useful as possible for others?”. We will discuss this more in the Metadata standards part of this module.

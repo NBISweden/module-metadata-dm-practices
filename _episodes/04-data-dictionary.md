@@ -18,7 +18,7 @@ It is good practice to make a **data dictionary** for your metadata. This is a f
 > 1. Open the FILE that you downloaded in [the beginning of the lesson](01-what-is-the-problem), in a spreadsheet program of you choice (Microsoft Excel, LibreOffice Calc, or Google Spreadsheet, or other).
 > 2. Open another **empty** spreadsheet file, name it `data_dictionary`.
 > 3. Add the following headings to the `data_dictionary` file:
-> **Current variable name**, **ENA Variable name**,	**Measurement unit**,	**Allowed values**,	**Definition**,	**Description**
+> **Current variable name**, **ENA Variable name**, **Measurement unit**, **Allowed values**, **Definition**, **Description**
 >
 > 4. Copy the headings of the **FILE file** to the first column (Current variable name) of the `data_dictionary` file, _**one heading term per row**_.
 >   * Now you should have a first row with the headings under step 3, and then one term (from the FILE file headings) per row in the first column.
@@ -51,7 +51,7 @@ If you plan to deposit your data in a public repository (and you should) this is
 
 > ## Exercise: Look up an ENA checklist to improve the data dictionary
 >
-> In this exercise we are assuming that you are planning to submit data about your samples to the European Nucleotide Archive - ENA. The ENA has set of suggested metadata standards for different types of samples that they call checklists.
+> In this exercise we are assuming that you are planning to submit data about your samples to the European Nucleotide Archive - ENA. The ENA has sets of suggested metadata standards for different types of samples that they call checklists.
 > 1. Go to [https://www.ebi.ac.uk/ena/browser/checklists](https://www.ebi.ac.uk/ena/browser/checklists) to see the available checklists
 > 2. Scroll down the listing until you find the *ERC000011 ENA default sample checklist*
 > 3. The _ENA default sample checklist_ lists the expected name and content for a number of metadata fields that can be submitted for samples. If you put your mouse pointer over the ? icon, you will get a description about of what type of information the different fields are supposed to contain.
