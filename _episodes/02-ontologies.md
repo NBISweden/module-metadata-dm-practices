@@ -60,9 +60,9 @@ Someone once said “A biologist would rather share a toothbrush with another bi
 > {: .solution}
 {: .challenge}
 
-A **Controlled vocabulary** is a list of terms that describes a certain domain of knowledge. In the controlled vocabulary you only use one term to describe one particular phenomenon, excluding all other synonyms. The vocabulary should provide a _definition_ for the term, and any _synonyms_. In a publicly managed controlled vocabulary, the terms should also have unique _identifiers_, so that they can be referenced.
+A **Controlled vocabulary** is a list of terms that describes a certain domain of knowledge. In the controlled vocabulary you only use _one_ term to describe one particular phenomenon, excluding all other synonyms. The vocabulary should provide a _definition_ for the term, and any _synonyms_. In a publicly managed controlled vocabulary, the terms should also have unique _identifiers_, so that they can be referenced.
 
-An **ontology** (in this context) is a controlled vocabulary, that appart from being a list of agreed terms, also captures relationships between these terms.
+An **ontology** (in this context) is a controlled vocabulary, that apart from being a list of agreed terms, also captures relationships between these terms.
 
 For example,
 

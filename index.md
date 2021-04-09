@@ -3,7 +3,7 @@ layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
-The aim of this lesson to make you understand the importance of metadata, and how it affects “FAIRness”. Also to understand what a metadata standard is, as well as what ontologies are and how they can find, and use them, to describe your data.
+The aim of this lesson to make you understand the importance of metadata, and how it affects “FAIRness”. Also to understand what a metadata standard is, as well as what ontologies are and how they can be found, and used, to describe your data.
 
 By the end of this lesson you will:
 

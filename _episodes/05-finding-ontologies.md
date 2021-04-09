@@ -33,11 +33,11 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 >
 > Add the name of the ontology and the terms you have selected to the **data dictionary**.
 >
-> You don't have to stick to the tools specified. Try the different ones if you want to. As you will probably notice, there is no perfect way that always finds what you want. It will almost always involve a fair bit of trial and error.
+> You don't have to stick to the tools specified. Try different ones if you want to. As you will probably notice, there is no perfect way that always finds what you want. It will almost always involve a fair bit of trial and error.
 >
 > > ## Solution
 > >
-> > * For each field you will have to look into the data file to see what values are there now.
+> > * For each field you will have to look into the data file to see what values are there now
 > > * Then try to find an ontology and the appropriate terms in that ontology
 > > * Add the name of the ontology and the terms you have choosen to the allowed values columns
 > >
@@ -46,25 +46,25 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 > > * Choose one of the search results that seems appropriate, e.g. from the _NCI Thesaurus OBO Edition - **NCIT**_
 > > * The term for this mouse strain in NCIT is **BALB/cJ Mouse**
 > > * Click on the Show siblings button in the ontology tree, on the left
-> >   * This will show all other mouse strains defined in this ontology.
+> >   * This will show all other mouse strains defined in this ontology
 > > * Look for _C56BL/6_. The term for this mouse strain in NCIT is **_C56BL/6_ Mouse**
-> > * So **NCIT** would be a suitable ontology, and C56BL/6 Mouse (NCIT:C14424),BALB/cJ Mouse (NCIT:C14657) the terms to use for the strains used.
+> > * So **NCIT** would be a suitable ontology, and C56BL/6 Mouse (NCIT:C14424),BALB/cJ Mouse (NCIT:C14657) the terms to use for the strains used
 > >
 > > **dev_stage**
 > > * Go to Zooma, and search for pup
-> > * In the result listing look at the ontologies that it suggests. The one going to the _BRENDA Tissue Ontology - **BTO**_, seems relevant. Click on to the page for the term.
-> > * Look at the siblings to the term pup in the tree view.
-> > * There are also terms for adult and embryo (where is it?).
-> > * So **BTO** would be a suitable ontology, and pup (BTO:0004377), adult (BTO:0001043), and embryo (BTO:0000379) the terms to use for the developmental stages.
+> > * In the result listing look at the ontologies that it suggests. The one going to the _BRENDA Tissue Ontology - **BTO**_, seems relevant. Click on to the page for the term
+> > * Look at the siblings to the term pup in the tree view
+> > * There are also terms for adult and embryo (where is it?)
+> > * So **BTO** would be a suitable ontology, and pup (BTO:0004377), adult (BTO:0001043), and embryo (BTO:0000379) the terms to use for the developmental stages
 > >
 > > **tissue_type**
 > > * Go to FAIRsharing.org
 > > * Go to "Standards"
 > > * Search for "tissue"
 > > * Find a suitable ontology, e.g. _Mouse Adult Gross Anatomy Ontology - **MA**_, and go to the information page
-> > * Look at the "MA Ontology Display". Click _View in BioPortal_.
-> > * Select the classes tab. Look through the tree of terms, or search for a term in the "Jump to" field.
-> > * So **MA** would be a suitable ontology, and lung (MA:0000415) and brain (MA:0000168) terms that can be used for the tissue_type.
+> > * Look at the "MA Ontology Display". Click _View in BioPortal_
+> > * Select the classes tab. Look through the tree of terms, or search for a term in the "Jump to" field
+> > * So **MA** would be a suitable ontology, and lung (MA:0000415) and brain (MA:0000168) terms that can be used for the tissue_type
 > >
 > > The data dictionary could now look something like this:
 > >
