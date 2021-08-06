@@ -9,7 +9,7 @@
 # cp: Carpentries (to use for instructor traning for instance)
 # incubator: Carpentries Incubator
 carpentry: "nbis"
-remote_theme: NBISweden/styles-dm-practices
+remote_theme: NBISweden/styles-dm-practices@canvas
 
 # Overall title for pages.
 title: "Metadata"
