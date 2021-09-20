@@ -19,6 +19,7 @@ Someone once said “A biologist would rather share a toothbrush with another bi
 > _Bloodstream Infection, Circulatory Failure, Toxic Shock Syndrome, Pyemia,	Circulatory Collapse, Blood Poisoning, Endotoxin Shock, Pyohemia, Hypovolemic Shock, Septicemia, Sepsis-associated hypotension, Pyaemia_
 >
 > > ## Solution
+> >
 > > | Sepsis | Shock | Septic shock |
 > > | - | - | - |
 > > | Blood Poisoning | Circulatory Collapse |Endotoxin Shock|
@@ -27,7 +28,6 @@ Someone once said “A biologist would rather share a toothbrush with another bi
 > > | Pyemia |||
 > > | Pyohemia|||
 > > | Septicemia |||
-> > ||||
 > >
 > {: .solution}
 {: .challenge}
