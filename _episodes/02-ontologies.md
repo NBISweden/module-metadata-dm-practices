@@ -12,51 +12,23 @@ keypoints:
 
 Someone once said “A biologist would rather share a toothbrush with another biologist than share a gene name”. This is probably true for other domains of research too.  If we all stick to our own devices and name things as we see fit without regarding our fellow researchers we run the risk of being inconsistent and unclear. To help with consistency when describing our data, we can use standardized term collections - Controlled vocabularies, Ontologies, Thesauruses, and Taxonomies. _The names for these different types of collections are often used interchangeably_.
 
-> ## How many terms for Breast Cancer can you think of?
+> ## How many phenomena?
 >
-> Discuss with your neighbour about what other terms you could use for "Breast Cancer".
+> How many different medical conditions do you think this list synonyms describes.
+>
+> _Bloodstream Infection, Circulatory Failure, Toxic Shock Syndrome, Pyemia,	Circulatory Collapse, Blood Poisoning, Endotoxin Shock, Pyohemia, Hypovolemic Shock, Septicemia, Sepsis-associated hypotension, Pyaemia_
 >
 > > ## Solution
+> > | Sepsis | Shock | Septic shock |
+> > | - | - | - |
+> > | Blood Poisoning | Circulatory Collapse |Endotoxin Shock|
+> > | Bloodstream Infection | Circulatory Failure |Sepsis-associated hypotension|
+> > | Pyaemia | Hypovolemic Shock |Toxic Shock Syndrome|
+> > | Pyemia |||
+> > | Pyohemia|||
+> > | Septicemia |||
+> > ||||
 > >
-> > MeSH lists the following synonyms for “Breast Neoplasm”:
-> >
-> > - Breast Neoplasm
-> > - Neoplasm, Breast
-> > - Breast Tumors
-> > - Breast Tumor
-> > - Tumor, Breast
-> > - Tumors, Breast
-> > - Neoplasms, Breast
-> > - Breast Cancer
-> > - Cancer, Breast
-> > - Mammary Cancer
-> > - Cancer, Mammary
-> > - Cancers, Mammary
-> > - Mammary Cancers
-> > - Malignant Neoplasm of Breast
-> > - Breast Malignant Neoplasm
-> > - Breast Malignant Neoplasms
-> > - Malignant Tumor of Breast
-> > - Breast Malignant Tumor
-> > - Breast Malignant Tumors
-> > - Cancer of Breast
-> > - Cancer of the Breast
-> > - Mammary Carcinoma, Human
-> > - Carcinoma, Human Mammary
-> > - Carcinomas, Human Mammary
-> > - Human Mammary Carcinomas
-> > - Mammary Carcinomas, Human
-> > - Human Mammary Carcinoma
-> > - Mammary Neoplasms, Human
-> > - Human Mammary Neoplasm
-> > - Human Mammary Neoplasms
-> > - Neoplasm, Human Mammary
-> > - Neoplasms, Human Mammary
-> > - Mammary Neoplasm, Human
-> > - Breast Carcinoma
-> > - Breast Carcinomas
-> > - Carcinoma, Breast
-> > - Carcinomas, Breast
 > {: .solution}
 {: .challenge}
 
