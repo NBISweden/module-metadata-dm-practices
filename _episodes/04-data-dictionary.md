@@ -31,18 +31,17 @@ It is good practice to make a **data dictionary** for your metadata. This is a f
 > >
 > > | Current variable name | ENA Variable name | Measurement unit | Allowed values | Definition | Description |
 > > |-|-|-|-|-|-|
-> > | animal ID |  |  |  |  |  |
+> > | sample id |  |  |  |  |  |
+> > | patient id |  |  |  |  |  |
+> > | sex |  |  | male, female, unknown | Sex of the individual |  |
 > > | date |  |  | format: YYYY-MM-DD, >=proj_start_date & <=today | Date of experiment ??? |  |
-> > | mouse line |  |  |  |  |  |
-> > | strain |  |  |  | The mouse strain of the animal |  |
-> > | age |  | days (?) |  | Age of animal |  |
-> > | developmental stage |  |  |  |  |  |
-> > | sex |  |  | male, female, unknown | Sex of the animal |  |
-> > | organism part |  |  |  |  |  |
-> > | genotype |  |  |  |  |  |
+> > | location |  |  |  |  |  |
+> > | age |  | years |  | Age of individual at the time of sampling |  |
+> > | health state |  |  |  | Health state of individual at time of sampling |  |
+> > | symptoms |  |  | fever, sore throat, tiredness, loss of taste or smell, not applicable | Symptoms experienced in connection with illness |  |
+> > | disease outcome |  |  | healthy, dead | Final outcome of disease |  |
+> > | health state |  |  |  | Health state of individual at time of sampling |  |
 > > | experiment type |  |  |  |  |  |
-> > | experiment reference |  |  |  |  |  |
-> > | researcher |  |  |  |  |  |
 > >
 > {: .solution}
 {: .challenge}
