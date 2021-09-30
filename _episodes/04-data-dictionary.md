@@ -38,7 +38,7 @@ It is good practice to make a **data dictionary** for your metadata. This is a f
 > > | location |  |  |  |  |  |
 > > | age |  | years |  | Age of individual at the time of sampling |  |
 > > | health state |  |  |  | Health state of individual at time of sampling |  |
-> > | symptoms |  |  | fever, sore throat, tiredness, loss of taste, not applicable | Symptoms experienced in connection with illness |  |
+> > | symptoms |  |  | fever, sore throat, fatigue, loss of taste, not applicable | Symptoms experienced in connection with illness |  |
 > > | disease outcome |  |  | healthy, dead | Final outcome of disease |  |
 > > | tissue |  |  |  | Tissue sampled |  |
 > > | experiment type |  |  |  |  |  |
@@ -72,7 +72,7 @@ If you plan to deposit your data in a public repository (and you should) this is
 > > | location | **geographic location (region and locality)** |  | <region>, <city>, ... |  |  |
 > > | age | **host age** | years |  | Age of individual at the time of sampling |  |
 > > | health state | **host health state** |  | **diseased, healthy, not applicable, not collected, not provided, restricted access** | Health state of individual at time of sampling |  |
-> > | symptoms | **illness symptoms** |  | fever, sore throat, tiredness, loss of taste or smell, not applicable | Symptoms experienced in connection with illness |  |
+> > | symptoms | **illness symptoms** |  | fever, sore throat, fatigue, loss of taste or smell, not applicable | Symptoms experienced in connection with illness |  |
 > > | disease outcome | **host disease outcome** |  | **recovered**, dead | Final outcome of disease |  |
 > > | tissue | **isolation source host-associated** |  |  | Tissue sampled |  |
 > > | experiment type |  |  |  |  |  |

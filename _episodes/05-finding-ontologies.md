@@ -27,9 +27,8 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 > ## Exercise: Find suitable ontologies for your data
 >
 > To be more specific about the terms used for some of the fields, try to find a suitable ontology and the terms to use for the values that will be in your data file ([samples_metadata_lesson.csv](../files/samples_metadata_lesson.csv)), for these fields:
-> * **strain**, using OLS
-> * **dev_stage**, using Zooma
-> * **tissue_type**, using FAIRsharing.org
+> * **illness symptoms**, using OLS
+> * **isolation source host-associated**, using FAIRsharing.org
 >
 > Add the name of the ontology and the terms you have selected to the **data dictionary**.
 >
@@ -41,7 +40,7 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 > > * Then try to find an ontology and the appropriate terms in that ontology
 > > * Add the name of the ontology and the terms you have choosen to the allowed values columns
 > >
-> > **strain**
+> > **illness symptoms**
 > > * Go to OLS, search for one of the strain names in the FILE, e.g. BALB/cJ
 > > * Choose one of the search results that seems appropriate, e.g. from the _NCI Thesaurus OBO Edition - **NCIT**_
 > > * The term for this mouse strain in NCIT is **BALB/cJ Mouse**
@@ -50,14 +49,7 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 > > * Look for _C56BL/6_. The term for this mouse strain in NCIT is **_C56BL/6_ Mouse**
 > > * So **NCIT** would be a suitable ontology, and C56BL/6 Mouse (NCIT:C14424),BALB/cJ Mouse (NCIT:C14657) the terms to use for the strains used
 > >
-> > **dev_stage**
-> > * Go to Zooma, and search for pup
-> > * In the result listing look at the ontologies that it suggests. The one going to the _BRENDA Tissue Ontology - **BTO**_, seems relevant. Click on to the page for the term
-> > * Look at the siblings to the term pup in the tree view
-> > * There are also terms for adult and embryo (where is it?)
-> > * So **BTO** would be a suitable ontology, and pup (BTO:0004377), adult (BTO:0001043), and embryo (BTO:0000379) the terms to use for the developmental stages
-> >
-> > **tissue_type**
+> > **isolation source host-associated**
 > > * Go to FAIRsharing.org
 > > * Go to "Standards"
 > > * Search for "tissue"
@@ -70,18 +62,19 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 > >
 > > | Current variable name | ENA Variable name | Measurement unit | Allowed values | Definition | Description |
 > > |-|-|-|-|-|-|
-> > | animal ID |  |  |  |  |  |
-> > | date |  |  | format: YYYY-MM-DD, >=proj_start_date & <=today | Date of experiment ??? |  |
-> > | mouse line | sub_strain |  |  |  |  |
-> > | strain | strain |  | NCIT ontology:<br> C56BL/6 Mouse (NCIT:C14424),<br> BALB/cJ Mouse (NCIT:C14657) | The mouse strain of the animal |  |
-> > | age |  | days,weeks (?) |  | Age of animal |  |
-> > | developmental stage | dev_stage |  | BTO ontology:<br> pup (BTO:0004377),<br> adult (BTO:0001043),<br> embryo (BTO:0000379) |  |  |
-> > | sex | sex |  | male, female, unknown | Sex of the animal |  |
-> > | organism part | tissue_type |  | MA ontology:<br> lung (MA:0000415),<br> brain (MA:0000168) |  |  |
-> > | genotype |  |  |  |  |  |
+> > | sample id |  |  |  |  |  |
+> > | patient id | **host subject id** |  |  |  |  |
+> > | sex | **host sex** |  | male, female, **not collected** | Sex of the individual |  |
+> > | date | **collection date** |  | format: YYYY-MM-DD, >=proj_start_date & <=today | Date of sampling |  |
+> > | location | **geographic location (country and/or sea)** |  | <country> |  |  |
+> > | location | **geographic location (region and locality)** |  | <region>, <city>, ... |  |  |
+> > | age | **host age** | years |  | Age of individual at the time of sampling |  |
+> > | health state | **host health state** |  | **diseased, healthy, not applicable, not collected, not provided, restricted access** | Health state of individual at time of sampling |  |
+> > | symptoms | **illness symptoms** |  | "NCIT ontology: <br>Fever (NCIT:C3038), Sore Throat (NCIT:C50747), Fatigue (NCIT:C3036), Ageusia (NCIT:C116374), not applicable" | Symptoms experienced in connection with illness |  |
+> > | disease outcome | **host disease outcome** |  | **recovered**, dead | Final outcome of disease |  |
+> > | tissue | **isolation source host-associated** |  |  | Tissue sampled |  |
 > > | experiment type |  |  |  |  |  |
-> > | experiment reference |  |  |  |  |  |
-> > | researcher |  |  |  |  |  |
+> > | **isolate** | **isolate** |  |  | **individual isolate from which the sample was obtained** |  |
 > >
 > {: .solution}
 {: .challenge}
