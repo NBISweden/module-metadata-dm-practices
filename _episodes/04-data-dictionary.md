@@ -69,7 +69,7 @@ If you plan to deposit your data in a public repository (and you should) this is
 > > | sex | **host sex** |  | male, female, **not collected** | Sex of the individual |  |
 > > | date | **collection date** |  | format: YYYY-MM-DD, >=proj_start_date & <=today | Date of sampling |  |
 > > | location | **geographic location (country and/or sea)** |  | <country> |  |  |
-> > | location | **geographic location (region)** |  | <region> |  |  |
+> > | location | **geographic location (region and locality)** |  | <region>, <city>, ... |  |  |
 > > | age | **host age** | years |  | Age of individual at the time of sampling |  |
 > > | health state | **host health state** |  | **diseased, healthy, not applicable, not collected, not provided, restricted access** | Health state of individual at time of sampling |  |
 > > | symptoms | **illness symptoms** |  | fever, sore throat, tiredness, loss of taste or smell, not applicable | Symptoms experienced in connection with illness |  |
