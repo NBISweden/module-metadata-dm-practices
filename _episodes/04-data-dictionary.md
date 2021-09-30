@@ -15,7 +15,7 @@ It is good practice to make a **data dictionary** for your metadata. This is a f
 > ## Exercise: Start a data dictionary
 >
 > The file [samples_metadata_lesson.csv](../files/samples_metadata_lesson.csv) contains information about a set of samples for a research project. In this exercise you will start writing a data dictionary for this file.
-> 1. Open the FILE that you downloaded in [the beginning of the lesson](01-what-is-the-problem), in a spreadsheet program of you choice (Microsoft Excel, LibreOffice Calc, or Google Spreadsheet, or other).
+> 1. Open the `samples_metadata_lesson.csv` file in a spreadsheet program of you choice (Microsoft Excel, LibreOffice Calc, or Google Spreadsheet, or other).
 > 2. Open another **empty** spreadsheet file, name it `data_dictionary`.
 > 3. Add the following headings to the `data_dictionary` file:
 > **Current variable name**, **ENA Variable name**, **Measurement unit**, **Allowed values**, **Definition**, **Description**
@@ -78,7 +78,7 @@ If you plan to deposit your data in a public repository (and you should) this is
 > > | health state | **host health state** |  |  | Health state of individual at time of sampling |  |
 > > | tissue | **isolation source host-associated** |  |  | Tissue sampled |  |
 > > | experiment type |  |  |  |  |  |
-> > | **isolate** |  |  |  | **individual isolate from which the sample was obtained** |  |
+> > | **isolate** | **isolate** |  |  | **individual isolate from which the sample was obtained** |  |
 > >
 > {: .solution}
 {: .challenge}
