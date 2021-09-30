@@ -40,7 +40,6 @@ It is good practice to make a **data dictionary** for your metadata. This is a f
 > > | health state |  |  |  | Health state of individual at time of sampling |  |
 > > | symptoms |  |  | fever, sore throat, tiredness, loss of taste, not applicable | Symptoms experienced in connection with illness |  |
 > > | disease outcome |  |  | healthy, dead | Final outcome of disease |  |
-> > | health state |  |  |  | Health state of individual at time of sampling |  |
 > > | tissue |  |  |  | Tissue sampled |  |
 > > | experiment type |  |  |  |  |  |
 > >
