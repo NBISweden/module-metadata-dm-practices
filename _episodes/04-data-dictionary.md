@@ -34,13 +34,14 @@ It is good practice to make a **data dictionary** for your metadata. This is a f
 > > | sample id |  |  |  |  |  |
 > > | patient id |  |  |  |  |  |
 > > | sex |  |  | male, female, unknown | Sex of the individual |  |
-> > | date |  |  | format: YYYY-MM-DD, >=proj_start_date & <=today | Date of experiment ??? |  |
+> > | date |  |  | format: YYYY-MM-DD, >=proj_start_date & <=today | Date of sampling |  |
 > > | location |  |  |  |  |  |
 > > | age |  | years |  | Age of individual at the time of sampling |  |
 > > | health state |  |  |  | Health state of individual at time of sampling |  |
-> > | symptoms |  |  | fever, sore throat, tiredness, loss of taste or smell, not applicable | Symptoms experienced in connection with illness |  |
+> > | symptoms |  |  | fever, sore throat, tiredness, loss of taste, not applicable | Symptoms experienced in connection with illness |  |
 > > | disease outcome |  |  | healthy, dead | Final outcome of disease |  |
 > > | health state |  |  |  | Health state of individual at time of sampling |  |
+> > | tissue |  |  |  | Tissue sampled |  |
 > > | experiment type |  |  |  |  |  |
 > >
 > {: .solution}
@@ -52,10 +53,11 @@ If you plan to deposit your data in a public repository (and you should) this is
 >
 > In this exercise we are assuming that you are planning to submit data about your samples to the European Nucleotide Archive - ENA. The ENA has sets of suggested metadata standards for different types of samples that they call checklists.
 > 1. Go to [https://www.ebi.ac.uk/ena/browser/checklists](https://www.ebi.ac.uk/ena/browser/checklists) to see the available checklists
-> 2. Scroll down the listing until you find the *ERC000011 ENA default sample checklist*
-> 3. The _ENA default sample checklist_ lists the expected name and content for a number of metadata fields that can be submitted for samples. If you put your mouse pointer over the ? icon, you will get a description about of what type of information the different fields are supposed to contain.
+> 2. Scroll down the listing until you find the *ERC000033 ENA virus pathogen reporting standard checklist*
+> 3. The _ENA virus pathogen reporting standard checklist_ lists the expected name and content for a number of metadata fields that can be submitted for samples. If you put your mouse pointer over the ? icon, you will get a description about of what type of information the different fields are supposed to contain.
 > 4. Open the **data dictionary file** that you started in the previous exercise.
-> 5. Go through the data dictionary and find suitable field names in the _ENA default sample checklist_ for those fields. Add them to the **ENA Variable name column** of your data dictionary file.
+> 5. Go through the data dictionary and find suitable field names in the _ENA virus pathogen reporting standard checklist_ for those fields. Add them to the **ENA Variable name column** of your data dictionary file. Are all mandatory fields present, or will you need to add fields?
+> 6. Also, note if any of the fields have controlled vocabularies. Update the allowed values for those fields in the data dictionary.
 >
 > > ## Solution
 > >
@@ -63,18 +65,20 @@ If you plan to deposit your data in a public repository (and you should) this is
 > >
 > > | Current variable name | ENA Variable name | Measurement unit | Allowed values | Definition | Description |
 > > |-|-|-|-|-|-|
-> > | animal ID |  |  |  |  |  |
-> > | date |  |  | format: YYYY-MM-DD, >=proj_start_date & <=today | Date of experiment ??? |  |
-> > | mouse line | sub_strain |  |  |  |  |
-> > | strain | strain |  |  | The mouse strain of the animal |  |
-> > | age |  | days (?) |  | Age of animal |  |
-> > | developmental stage | dev_stage |  |  |  |  |
-> > | sex | sex |  | male, female, unknown | Sex of the animal |  |
-> > | organism part | tissue_type |  |  |  |  |
-> > | genotype |  |  |  |  |  |
+> > | sample id |  |  |  |  |  |
+> > | patient id | **host subject id** |  |  |  |  |
+> > | sex | **host sex** |  | male, female, **not collected** | Sex of the individual |  |
+> > | date | **collection date** |  | format: YYYY-MM-DD, >=proj_start_date & <=today | Date of sampling |  |
+> > | location | **geographic location (country and/or sea)** |  | <country> |  |  |
+> > | location | **geographic location (region)** |  | <region> |  |  |
+> > | age | **host age** | years |  | Age of individual at the time of sampling |  |
+> > | health state | **host health state** |  | **diseased, healthy, not applicable, not collected, not provided, restricted access** | Health state of individual at time of sampling |  |
+> > | symptoms | **illness symptoms** |  | fever, sore throat, tiredness, loss of taste or smell, not applicable | Symptoms experienced in connection with illness |  |
+> > | disease outcome | **host disease outcome** |  | **recovered**, dead | Final outcome of disease |  |
+> > | health state | **host health state** |  |  | Health state of individual at time of sampling |  |
+> > | tissue | **isolation source host-associated** |  |  | Tissue sampled |  |
 > > | experiment type |  |  |  |  |  |
-> > | experiment reference |  |  |  |  |  |
-> > | researcher |  |  |  |  |  |
+> > | **isolate** |  |  |  | **individual isolate from which the sample was obtained** |  |
 > >
 > {: .solution}
 {: .challenge}
