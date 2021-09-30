@@ -74,7 +74,6 @@ If you plan to deposit your data in a public repository (and you should) this is
 > > | health state | **host health state** |  | **diseased, healthy, not applicable, not collected, not provided, restricted access** | Health state of individual at time of sampling |  |
 > > | symptoms | **illness symptoms** |  | fever, sore throat, tiredness, loss of taste or smell, not applicable | Symptoms experienced in connection with illness |  |
 > > | disease outcome | **host disease outcome** |  | **recovered**, dead | Final outcome of disease |  |
-> > | health state | **host health state** |  |  | Health state of individual at time of sampling |  |
 > > | tissue | **isolation source host-associated** |  |  | Tissue sampled |  |
 > > | experiment type |  |  |  |  |  |
 > > | **isolate** | **isolate** |  |  | **individual isolate from which the sample was obtained** |  |
