@@ -19,10 +19,8 @@ As we have said earlier, there are hundreds of metadata standards, controlled vo
 
 The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes availble a [set of resources for ontologies](https://www.ebi.ac.uk/spot/ontology/), e.g.:
 
-* [Zooma](https://www.ebi.ac.uk/spot/zooma/)
 * [OLS](https://www.ebi.ac.uk/ols/index)
-
-
+* [Zooma](https://www.ebi.ac.uk/spot/zooma/)
 
 > ## Exercise: Find suitable ontologies for your data
 >
@@ -41,22 +39,20 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 > > * Add the name of the ontology and the terms you have choosen to the allowed values columns
 > >
 > > **illness symptoms**
-> > * Go to OLS, search for one of the strain names in the FILE, e.g. BALB/cJ
+> > * Go to OLS, search for one of the symptoms in the `samples_metadata_lesson.csv` file, e.g. _fever_
 > > * Choose one of the search results that seems appropriate, e.g. from the _NCI Thesaurus OBO Edition - **NCIT**_
-> > * The term for this mouse strain in NCIT is **BALB/cJ Mouse**
-> > * Click on the Show siblings button in the ontology tree, on the left
-> >   * This will show all other mouse strains defined in this ontology
-> > * Look for _C56BL/6_. The term for this mouse strain in NCIT is **_C56BL/6_ Mouse**
-> > * So **NCIT** would be a suitable ontology, and C56BL/6 Mouse (NCIT:C14424),BALB/cJ Mouse (NCIT:C14657) the terms to use for the strains used
+> > * The term for _fever_ in NCIT is **Fever**. Also note that it has an identifier _NCIT:C3038_
+> > * Find terms for the other symptoms in NCIT, by either browsing the tree (click on the Show siblings button in the ontology tree to expand the contents of the tree), or by searching
+> > * See below for the NCIT terms for the symptoms
 > >
 > > **isolation source host-associated**
 > > * Go to FAIRsharing.org
 > > * Go to "Standards"
-> > * Search for "tissue"
-> > * Find a suitable ontology, e.g. _Mouse Adult Gross Anatomy Ontology - **MA**_, and go to the information page
-> > * Look at the "MA Ontology Display". Click _View in BioPortal_
+> > * Search for "anatomy"
+> > * Find a suitable ontology, e.g. _Foundational Model of Anatomy - **FMA**_, and go to the information page
+> > * Look at the "FMA Ontology Display". Click _View in BioPortal_
 > > * Select the classes tab. Look through the tree of terms, or search for a term in the "Jump to" field
-> > * So **MA** would be a suitable ontology, and lung (MA:0000415) and brain (MA:0000168) terms that can be used for the tissue_type
+> > * So **FMA** would be a suitable ontology. See below for the FMA terms for the tissues
 > >
 > > The data dictionary could now look something like this:
 > >
@@ -72,7 +68,7 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 > > | health state | **host health state** |  | **diseased, healthy, not applicable, not collected, not provided, restricted access** | Health state of individual at time of sampling |  |
 > > | symptoms | **illness symptoms** |  | "NCIT ontology: <br>Fever (NCIT:C3038), Sore Throat (NCIT:C50747), Fatigue (NCIT:C3036), Ageusia (NCIT:C116374), not applicable" | Symptoms experienced in connection with illness |  |
 > > | disease outcome | **host disease outcome** |  | **recovered**, dead | Final outcome of disease |  |
-> > | tissue | **isolation source host-associated** |  |  | Tissue sampled |  |
+> > | tissue | **isolation source host-associated** |  | "FMA ontology:<br>Laryngopharynx (FMA:54880), Nasopharynx (FMA:54878), Lung (FMA:7195)" | Tissue sampled |  |
 > > | experiment type |  |  |  |  |  |
 > > | **isolate** | **isolate** |  |  | **individual isolate from which the sample was obtained** |  |
 > >
