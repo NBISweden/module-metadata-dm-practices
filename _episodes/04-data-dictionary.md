@@ -55,7 +55,9 @@ If you plan to deposit your data in a public repository (and you should) this is
 > 2. Scroll down the listing until you find the *ERC000033 ENA virus pathogen reporting standard checklist*
 > 3. The _ENA virus pathogen reporting standard checklist_ lists the expected name and content for a number of metadata fields that can be submitted for samples. If you put your mouse pointer over the ? icon, you will get a description about of what type of information the different fields are supposed to contain.
 > 4. Open the **data dictionary file** that you started in the previous exercise.
-> 5. Go through the data dictionary and find suitable field names in the _ENA virus pathogen reporting standard checklist_ for those fields. Add them to the **ENA Variable name column** of your data dictionary file. Are all mandatory fields present, or will you need to add fields?
+> 5. Go through the data dictionary and find suitable field names in the _ENA virus pathogen reporting standard checklist_ for those fields. Add them to the **ENA Variable name column** of your data dictionary file. 
+>   - Are all mandatory fields present, or will you need to add fields?
+>   - Are there fields that need to be split into more fields?
 > 6. Also, note if any of the fields have controlled vocabularies. Update the allowed values for those fields in the data dictionary.
 >
 > > ## Solution
