@@ -14,7 +14,7 @@ Someone once said “A biologist would rather share a toothbrush with another bi
 
 > ## How many phenomena?
 >
-> How many different medical conditions do you think this list synonyms describes.
+> How many different medical conditions do you think this list of terms describes.
 >
 > _Bloodstream Infection, Circulatory Failure, Toxic Shock Syndrome, Pyemia,	Circulatory Collapse, Blood Poisoning, Endotoxin Shock, Pyohemia, Hypovolemic Shock, Septicemia, Sepsis-associated hypotension, Pyaemia_
 >
