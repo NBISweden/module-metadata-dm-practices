@@ -1,101 +1,92 @@
-animal ID,date,mouse line,strain,age,developmental stage,sex,organism part,genotype,experiment type,experiment reference,researcher
-800793,2018-01-06,Alk3,BALB/cJ,10,adult,F,,wt,behaviour,Jan0618_B,Kim
-804396,2019-01-07,Kdr,C57BL/6,6,adult,mael,lung,wild type genotype,sequencing assay,up_201_2,Sam
-805431,2018-01-12,Kdr,C57BL/6,P9,pup,female,lung,wild type genotype,IHC,Jan1218_IHC,Sam
-805992,2019-01-13,Kdr,C57BL/6,P10,pup,male,lung,wild type genotype,IHC,Jan1319_IHC,Sam
-808935,2020-01-14,Alk3,BALB/cJ,12,adult,M,,wt,behaviour,Jan1420_B,Kim
-810875,2019-01-16,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,Jan1619_C,Jo
-812308,2018-01-19,Alk3,BALB/cJ,12,adult,F,,wt,behaviour,Jan1918_B,Kim
-814334,2019-01-19,Kdr,C57BL/6,P9,pup,mael,lung,wild type genotype,IHC,Jan1919_IHC,Sam
-816649,1/20/18,Kdr,C57BL/6,P10,pup,female,lung,wild type genotype,IHC,Jan2018_IHC,Sam
-819947,2019-01-24,Kdr,C57BL/6,6,adult,male,lung,wild type genotype,sequencing assay,up_432_1,Alex
-820421,2019-01-31,Kdr,C57BL/8,P9,pup,female,lung,wild type genotype,IHC,Jan3119_IHC,Sam
-821756,2018-02-04,Kdr,C57BL/6,P9,pup,male,lung,wild type genotype,IHC,Feb0418_IHC,Alex
-877817,2019-04-13,Kdr,C57BL/6,6,adult,male,lung,wild type genotype,sequencing assay,up_432_2,Alex
-821844,02-07-18,Kdr,C57BL/6,P10,pup,female,lung,wild type genotype,IHC,Feb0718_IHC,Sam
-826176,2019-02-14,Kdr,C57BL/6,P10,pup,male,lung,wild type genotype,IHC,Feb1419_IHC,Sam
-832626,2020-02-16,Kdr,C57BL/6,P9,pup,Male,lugn,wild type genotype,IHC,Feb1620_IHC,Sam
-834217,2020-02-18,Alk3,BALB/cJ,4,adult,male,lung,Kdr Y949F/Y949F,sequencing assay,up_235_1,Kim
-835936,2020-02-18,Kdr,C57BL/6,8,adult,female,lung,wild type genotype,sequencing assay,up_201_1,Sam
-836507,2020-02-23,Kdr,C57BL/6,9,adult,male,lung,Kdr Y949F/Y949F,sequencing assay,up_201_4,Sam
-837913,2020-02-27,Kdr,C57BL/6,6,adult,Male,lung,wild type genotype,sequencing assay,up_201_3,Sam
-842068,2020-02-27,Kdr,C57BL/6,P9,pup,female,lung,Kdr Y949F/Y949F,IHC,Feb2720_IHC,Sam
-843132,2018-03-04,Kdr,C57BL/6,P9,pup,female,lung,Kdr Y949F/Y949F,IHC,Mar0418_IHC,Sam
-844834,2018-03-07,Alk3,BALB/cJ,P9,pup,Female,lung,wild type genotype,IHC,Mar0718_IHC,Kim
-845290,2019-03-07,Alk3,BALB/cJ,8,adult,male,lung,Kdr Y949F/Y949F,sequencing assay,up_235_2,Kim
-855000,2019-03-09,Alk3,BALB/cJ,5,adult,female,lung,wild-type genotype,sequencing assay,up_235_5,Kim
-856721,2020-03-09,Alk3,BALB/cJ,8,adult,male,lung,Kdr Y949F/Y949F,sequencing assay,up_235_3,Kim
-862100,2018-03-17,Alk3,BALB/cJ,P10,pup,male,lung,wild type genotype,IHC,Mar1718_IHC,Kim
-863932,2018-03-21,Kdr,C57BL/6,E16,embryo,N/A,lung,wild type genotype,culture,Mar2118_C,Sam
-864387,2018-03-23,Alk3,BALB/cJ,E16,embryo,N/A,lung,wild type genotype,culture,Mar2318_C,Kim
-865043,2019-03-29,Alk3,BALB/cJ,12,adult,F,,wt,behaviour,Mar2919_B,Kim
-865149,03-30-2019,Alk3,BALB/cJ,12,adult,M,,mt,behaviour,Mar3019_B,Kim
-866205,2018-04-01,Alk3,BALB/cJ,10,adult,M,,wt,behaviour,Apr0118_B,Kim
-867481,2018-04-10,Alk3,BALB/cJ,10,adult,F,,wt,behaviour,Apr1018_B,Kim
-867794,2020-04-10,Alk3,BALB/cJ,11,adult,F,,mt,behaviour,Apr1020_B,Kim
-875004,2019-04-11,Alk3,BALB/cJ,10,adult,F,,wt,behaviour,Apr1119_B,Kim
-876139,2018-04-13,Alk3,BALB/cJ,12,adult,M,,wt,behaviour,Apr1318_B,Kim
-890389,2020-04-22,Kdr,C57BL/6,P9,pup,male,lung,wild type genotype,IHC,Apr2220_IHC,Alex
-886043,2019-04-17,Kdr,C57BL/6,P9,pup,female,lung,wild type genotype,IHC,Apr1719_IHC,Alex
-821080,2019-02-03,Kdr,C57BL/6,P10,pup,male,lung,wild type genotype,IHC,Feb0319_IHC,Alex
-889891,2018-04-21,Kdr,C57BL/6,P10,pup,male,lung,wild type genotype,IHC,Apr2118_IHC,Alex
-890412,2020-04-22,Kdr,C57BL/6,P10,pup,female,lung,wild type genotype,IHC,Apr2220_IHC,Alex
-891135,2020-04-25,Kdr,C57BL/6,P10,pup,male,lung,wild type genotype,IHC,Apr2520_IHC,Alex
-891731,2020-04-30,Kdr,C57BL/6,P9,pup,Male,lung,wild type genotype,IHC,Apr3020_IHC,Alex
-892354,2019-05-01,Alk3,BALB/cJ,4,adult,male,lung,wild type genotype,sequencing assay,up_235_4,Kim
-893041,2019-05-03,Kdr,C57BL/6,10,adult,female,lung,wild type genotype,sequencing assay,up_432_3,Alex
-893257,2020-05-03,Kdr,C57BL/6,9,adult,male,lung,Kdr Y949F/Y949F,sequencing assay,up_432_4,Alex
-893290,2018-05-08,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,May0818_C,Jo
-896197,2018-05-09,Kdr,C57BL/6,P9,pup,female,lung,Kdr Y949F/Y949F,IHC,May0918_IHC,Sam
-898035,2020-05-15,Kdr,C57BL/6,P9,pup,female,lung,Kdr Y949F/Y949F,IHC,May1520_IHC,Alex
-899372,2018-05-18,Kdr,C57BL/6,P9,pup,Female,lung,wild type genotype,IHC,May1818_IHC,Alex
-903535,2019-05-25,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,May2519_C,Jo
-904417,2019-05-28,Alk3,BALB/cJ,5,adult,female,lung,wild type genotype,sequencing assay,up_235_6,Kim
-905633,2018-06-04,Kdr,C57BL/6,8,adult,male,lung,Kdr Y949F/Y949F,sequencing assay,up_201_6,Sam
-909250,2020-06-04,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,Jun0420_C,Jo
-909687,2020-06-06,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,Jun0620_C,Jo
-910503,2019-06-07,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,Jun0719_C,Jo
-910988,2019-06-07,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,Jun0719_C,Jo
-916800,2020-06-07,Alk3,BALB/cJ,11,adult,M,,mt,behaviour,Jun0720_B,Kim
-917874,2020-06-15,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,Jun1520_C,Jo
-918189,2020-06-22,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,Jun2220_C,Jo
-918674,2020-06-28,Alk3,BALB/cJ,12,adult,F,,mt,behaviour,Jun2820_B,Kim
-919295,2019-07-03,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,Jul0319_C,Jo
-920470,2019-07-04,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,Jul0419_C,Jo
-920574,2020-07-07,Kdr,C57BL/6,P10,pup,male,lung,wild type genotype,IHC,Jul0720_IHC,Sam
-924436,2018-07-12,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,Jul1218_C,Jo
-925791,2018-07-15,Kdr,C57BL/7,E16,embryo,N/A,lung,wild type genotype,culture,Jul1518_C,Sam
-928254,2020-07-23,Kdr,C57BL/8,E16,embryo,N/A,lung,wild type genotype,culture,Jul2320_C,Sam
-928944,2019-07-25,Kdr,C57BL/6,E16,embryo,N/A,lung,wild type genotype,culture,Jul2519_C,Sam
-932353,2019-07-26,Kdr,C57BL/6,E16,embryo,N/A,lung,Kdr Y949F/Y949F,culture,Jul2619_C,Sam
-934662,2018-07-27,Kdr,C57BL/6,7,adult,female,lung,Kdr Y949F/Y949F,sequencing assay,up_201_5,Sam
-935401,2019-08-03,Alk3,BALB/cJ,11,adult,F,,mt,behaviour,Aug319_B,Kim
-935845,2018-08-10,Alk3,BALB/cJ,11,adult,F,,mt,behaviour,Aug1018_B,Kim
-939519,2020-08-10,Kdr,C57BL/6,E16,embryo,N/A,lung,wild type genotype,culture,Aug1020_C,Sam
-941458,2020-08-11,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,Aug1120_C,Jo
-941646,2020-08-23,Kdr,C57BL/6,P9,pup,female,lung,wild type genotype,IHC,Aug2320_IHC,Alex
-942097,2020-08-24,Kdr,C57BL/6,P10,pup,male,lung,wild type genotype,IHC,Aug2420_IHC,Sam
-942925,2020-08-31,Kdr,C57BL/6,P9,pup,mael,lung,wild type genotype,IHC,Aug3120_IHC,Sam
-943018,2019-09-02,Kdr,C57BL/6,P10,pup,female,lung,wild type genotype,IHC,Sep0219_IHC,Sam
-944091,2019-09-10,Kdr,C57BL/6,P10,pup,male,lung,wild type genotype,IHC,Sep1019_IHC,Sam
-945336,2018-09-15,Alk3,BALB/cJ,P9,pup,Male,lung,wild type genotype,IHC,Sep1518_IHC,Kim
-946315,2018-09-16,Alk3,BALB/cJ,11,adult,M,,wt,behaviour,Sep1618_B,Kim
-951520,2019-09-27,Alk3,BALB/cJ,11,adult,M,,mt,behaviour,Sep2719_B,Kim
-951658,2019-10-03,Alk3,BALB/cJ,11,adult,F,,wt,behaviour,Oct0319_B,Kim
-957895,2020-10-08,Alk3,BALB/cJ,10,adult,f,,mt,behaviour,Oct0820_B,Kim
-958065,2019-10-11,Alk3,BALB/cJ,10,adult,F,,wt,behaviour,Oct1119_B,Kim
-958342,2018-10-13,Kdr,C57BL/6,P9,pup,Male,lung,wild type genotype,IHC,Oct1318_IHC,Alex
-959920,2018-10-25,Alk3,BALB/cJ,12,adult,F,,wt,behaviour,Oct2518_B,Kim
-969452,2019-10-29,Alk3,BALB/cJ,12,adult,M,,wt,behaviour,Oct2919_B,Kim
-971991,2019-11-01,Alk3,BALB/cJ,12,adult,M,,mt,behaviour,Nov0119_B,Kim
-977235,2019-11-02,Alk3,BALB/cJ,12,adult,F,,mt,behaviour,Nov0219_B,Kim
-979356,2019-11-03,Kdr,C57BL/6,5,adult,female,lung,Kdr Y949F/Y949F,sequencing assay,up_201_7,Sam
-980584,2018-11-09,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,Nov0918_C,Jo
-983907,2019-11-14,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,Nov1419_C,Jo
-985280,2019-11-21,Alk3,BALB/cJ,10,adult,F,,mt,behaviour,Nov2119_B,Kim
-985570,2018-12-18,alk6,C57BL/6,E16,embryo,N/A,brain,KO,culture,Dec1818_C,Jo
-986267,2019-12-20,Alk3,BALB/cJ,10,adult,F,,mt,behaviour,Dec2019_B,Kim
-996829,2019-12-20,Alk3,BALB/cJ,10,adult,M,,mt,behaviour,Dec2019_B,Kim
-996946,2019-12-23,Kdr,C57BL/6,P10,pup,male,lung,wild type genotype,IHC,Dec2319_IHC,Alex
-999154,2018-12-25,Kdr,C57BL/6,P9,pup,Male,lung,wild type genotype,IHC,Dec2518_IHC,Sam
-999979,2018-12-29,Kdr,C57BL/6,P10,pup,male,lung,wild type genotype,IHC,Dec2918_IHC,Alex
+sample id,patient id,sex,date,geographic location,age,health state,symptoms,disease outcome,tissue
+PE300_COVseq_OAS-1,OAS-1,female,31 March,"Italy, Turin, Nizza Millefonti",48,ill,"fever, sore throat",dead,laryngopharynx
+PE150_COVseq_OAS-1,OAS-1,Female,32 March,"Italy, Turin, Nizza Millefonti",48,ill,"fever, sore throat",dead,laryngopharynx
+NEBNext_OAS-1,OAS-1,female,33 March,"Italy, Turin, Nizza Millefonti",48,ill,"fever, sore throat",dead,laryngopharynx
+PE300_COVseq_OAS-10,OAS-10,male,2020-03-31,"Italy, Turin, Turin",35,,N/A,,lung
+PE150_COVseq_OAS-10,OAS-10,male,2020-03-31,"Italy, Turin, Turin",35,,N/A,,lung
+NEBNext_OAS-10,OAS-10,male,2020-03-31,"Italy, Turin, Turin",35,,N/A,,lung
+PE300_COVseq_OAS-11,OAS-11,male,2020-03-31,"Italy, Turin, Piemonte",59,healthy,N/A,healthy,nasopharynx
+PE150_COVseq_OAS-11,OAS-11,Male,2020-03-31,"Italy, Turin, Piemonte",59,healthy,N/A,healthy,nasopharynx
+NEBNext_OAS-11,OAS-11,Male,2020-03-31,"Italy, Turin, Piemonte",59,healthy,N/A,healthy,nasopharynx
+PE300_COVseq_OAS-12,OAS-12,female,2020-03-31,"Italy, Turin, Turin",60,healthy,N/A,healthy,nasopharynx
+PE150_COVseq_OAS-12,OAS-12,female,2020-03-31,"Italy, Turin, Turin",60,healthy,N/A,healthy,nasopharynx
+NEBNext_OAS-12,OAS-12,female,2020-03-31,"Italy, Turin, Turin",60,healthy,N/A,healthy,nasopharynx
+PE300_COVseq_OAS-13,OAS-13,female,31/3/2020,"Italy, Turin, Torino",83,ill,"fatigue, loss of taste",dead,laryngopharynx
+PE150_COVseq_OAS-13,OAS-13,female,31/3/2020,"Italy, Turin, Torino",83,ill,"fatigue, loss of taste",dead,laryngopharynx
+NEBNext_OAS-13,OAS-13,female,31/3/2020,"Italy, Turin, Torino",83,ill,"fatigue, loss of taste",dead,laryngopharynx
+PE300_COVseq_OAS-14,OAS-14,Male,4/1/2020,"Italy, Turin, Campidoglio",21,ill,fever,dead,laryngopharynx
+PE150_COVseq_OAS-14,OAS-14,M,4/1/2021,"Italy, Turin, Campidoglio",21,ill,fever,dead,laryngopharynx
+NEBNext_OAS-14,OAS-14,M,4/1/2022,"Italy, Turin, Campidoglio",21,ill,fever,dead,laryngopharynx
+PE300_COVseq_OAS-15,OAS-15,Female,1/4/2020,"Italy, Turin, Turin",44,healthy,N/A,healthy,lung
+PE150_COVseq_OAS-15,OAS-15,female,1/4/2020,"Italy, Turin, Turin",44,healthy,N/A,healthy,lung
+NEBNext_OAS-15,OAS-15,female,1/4/2020,"Italy, Turin, Turin",44,healthy,N/A,healthy,lung
+PE300_COVseq_OAS-16,OAS-16,male,2020-04-01,"Italy, Turin, Campidoglio",55,healthy,N/A,healthy,lung
+PE150_COVseq_OAS-16,OAS-16,mail,2020-04-01,"Italy, Turin, Campidoglio",55,healthy,N/A,healthy,lung
+NEBNext_OAS-16,OAS-16,male,2020-04-01,"Italy, Turin, Campidoglio",55,healthy,N/A,healthy,lung
+PE300_COVseq_OAS-17,OAS-17,female,2020-03-31,"Italy, Turin, Torino",81,ill,"loss of taste, sore throt",dead,nasopharynx
+PE150_COVseq_OAS-17,OAS-17,female,2020-03-31,"Italy, Turin, Torino",81,ill,"loss of taste, sore throt",dead,nasopharynx
+NEBNext_OAS-17,OAS-17,female,2020-03-31,"Italy, Turin, Torino",81,ill,"loss of taste, sore throt",dead,nasopharynx
+PE300_COVseq_OAS-18,OAS-18,Female,1/4/2020,"Italy, Turin, Turin",63,healthy,N/A,healthy,laryngopharynx
+PE150_COVseq_OAS-18,OAS-18,Female,1/4/2020,"Italy, Turin, Turin",63,healthy,N/A,healthy,laryngopharynx
+NEBNext_OAS-18,OAS-18,Female,1/4/2020,"Italy, Turin, Turin",63,healthy,N/A,healthy,laryngopharynx
+PE300_COVseq_OAS-19,OAS-19,F,1/4/2020,"Italy, Turin, Turin",78,ill,"fatigue, fever",dead,lung
+PE150_COVseq_OAS-19,OAS-19,f,1/4/2020,"Italy, Turin, Turin",78,ill,"fatigue, fever",dead,lung
+NEBNext_OAS-19,OAS-19,f,1/4/2020,"Italy, Turin, Turin",78,ill,"fatigue, fever",dead,lung
+PE300_COVseq_OAS-2,OAS-2,female,31/3/2020,"Italy, Turin, Mirafiori Sud",24,ill,tired,dead,lung
+PE150_COVseq_OAS-2,OAS-2,female,31/3/2020,"Italy, Turin, Mirafiori Sud",24,ill,tired,dead,lung
+NEBNext_OAS-2,OAS-2,female,31/3/2020,"Italy, Turin, Mirafiori Sud",24,ill,tired,dead,lung
+PE300_COVseq_OAS-20,OAS-20,male,31/3/2020,"Italy, Turin, Piemonte",74,,N/A,,laryngopharynx
+PE150_COVseq_OAS-20,OAS-20,male,31/3/2020,"Italy, Turin, Piemonte",74,,N/A,,laryngopharynx
+NEBNext_OAS-20,OAS-20,m,31/3/2020,"Italy, Turin, Piemonte",74,,N/A,,laryngopharynx
+PE300_COVseq_OAS-21,OAS-21,Male,8/4/2020,"Italy, Turin, Turin",76,healthy,fever,healthy,laryngopharynx
+PE150_COVseq_OAS-21,OAS-21,male,8/4/2020,"Italy, Turin, Turin",76,healthy,fever,healthy,laryngopharynx
+NEBNext_OAS-21,OAS-21,Male,8/4/2020,"Italy, Turin, Turin",76,healthy,fever,healthy,laryngopharynx
+PE300_COVseq_OAS-22,OAS-22,female,4/8/2020,"Italy, Turin, Turin",56,healthy,N/A,healthy,lung
+PE150_COVseq_OAS-22,OAS-22,Female,4/8/2020,"Italy, Turin, Turin",56,healthy,N/A,healthy,lung
+NEBNext_OAS-22,OAS-22,female,4/8/2020,"Italy, Turin, Turin",56,healthy,N/A,healthy,lung
+PE300_COVseq_OAS-23,OAS-23,male,2020-4-8,"Italy, Turin, Mirafiori Sud",44,healthy,N/A,healthy,nasopharynx
+PE150_COVseq_OAS-23,OAS-23,male,2020-4-8,"Italy, Turin, Mirafiori Sud",44,healthy,N/A,healthy,nasopharynx
+NEBNext_OAS-23,OAS-23,male,2020-4-8,"Italy, Turin, Mirafiori Sud",44,healthy,N/A,healthy,nasopharynx
+PE300_COVseq_OAS-24,OAS-24,male,8/4/2020,"Italy, Turin, Torino",96,ill,"fever, sore throat",dead,nasopharynx
+PE150_COVseq_OAS-24,OAS-24,male,8/4/2020,"Italy, Turin, Torino",96,ill,"fever, sore throat",dead,nasopharynx
+NEBNext_OAS-24,OAS-24,male,8/4/2020,"Italy, Turin, Torino",96,ill,"fever, sore throat",dead,nasopharynx
+PE300_COVseq_OAS-25,OAS-25,female,8/4/2020,"Italy, Turin, Turin",80,healthy,N/A,healthy,lung
+PE150_COVseq_OAS-25,OAS-25,female,8/4/2021,"Italy, Turin, Turin",80,healthy,N/A,healthy,lung
+NEBNext_OAS-25,OAS-25,female,8/4/2022,"Italy, Turin, Turin",80,healthy,N/A,healthy,lung
+PE300_COVseq_OAS-26,OAS-26,Female,8/4/2020,"Italy, Turin, Madonna di Campagna",19,,N/A,,nasopharynx
+PE150_COVseq_OAS-26,OAS-26,female,8/4/2020,"Italy, Turin, Madonna di Campagna",19,,N/A,,nasopharynx
+NEBNext_OAS-26,OAS-26,female,8/4/2020,"Italy, Turin, Madonna di Campagna",19,,N/A,,nasopharynx
+PE300_COVseq_OAS-27,OAS-27,male,8/4/2020,"Italy, Turin, Turin",68,ill,no taste,dead,laryngopharynx
+PE150_COVseq_OAS-27,OAS-27,male,8/4/2020,"Italy, Turin, Turin",68,ill,no taste,dead,laryngopharynx
+NEBNext_OAS-27,OAS-27,male,8/4/2020,"Italy, Turin, Turin",68,ill,no taste,dead,laryngopharynx
+PE300_COVseq_OAS-28,OAS-28,female,7 April,"Italy, Turin, Torino",30,healthy,N/A,healthy,lung
+PE150_COVseq_OAS-28,OAS-28,F,7 April,"Italy, Turin, Torino",30,healthy,N/A,healthy,lung
+NEBNext_OAS-28,OAS-28,Female,7 April,"Italy, Turin, Torino",30,healthy,N/A,healthy,lung
+PE300_COVseq_OAS-29,OAS-29,male,7/4/2020,"Italy, Turin, Turin",56,healthy,N/A,healthy,laryngopharynx
+PE150_COVseq_OAS-29,OAS-29,male,7/4/2020,"Italy, Turin, Turin",56,healthy,N/A,healthy,laryngopharynx
+NEBNext_OAS-29,OAS-29,Male,7/4/2020,"Italy, Turin, Turin",56,healthy,N/A,healthy,laryngopharynx
+PE300_COVseq_OAS-3,OAS-3,female,31/3/2020,"Italy, Turin, Turin",41,ill,"sore throat, fatigue, fever",dead,lung
+PE150_COVseq_OAS-3,OAS-3,female,31/3/2020,"Italy, Turin, Turin",41,ill,"sore throat, fatigue, fever",dead,lung
+NEBNext_OAS-3,OAS-3,female,31/3/2020,"Italy, Turin, Turin",41,ill,"sore throat, fatigue, fever",dead,lung
+PE300_COVseq_OAS-4,OAS-4,male,1/4/2020,"Italy, Turin, Nizza Millefonti",0.4,ill,fever,dead,lung
+PE150_COVseq_OAS-4,OAS-4,male,1/4/2020,"Italy, Turin, Nizza Millefonti",0.4,ill,fever,dead,lung
+NEBNext_OAS-4,OAS-4,male,1/4/2020,"Italy, Turin, Nizza Millefonti",0.4,ill,fever,dead,lung
+PE300_COVseq_OAS-5,OAS-5,male,31/3/2020,"Italy, Turin, Turin",23,ill,"fatigue, loss of taste",dead,laryngopharynx
+PE150_COVseq_OAS-5,OAS-5,male,31/3/2020,"Italy, Turin, Turin",23,ill,"fatigue, loss of taste",dead,laryngopharynx
+NEBNext_OAS-5,OAS-5,M,31/3/2020,"Italy, Turin, Turin",23,ill,"fatigue, loss of taste",dead,laryngopharynx
+PE300_COVseq_OAS-6,OAS-6,female,31/3/2020,"Italy, Turin, Turin",59,ill,"fever, sore throat",dead,nasopharynx
+PE150_COVseq_OAS-6,OAS-6,female,31/3/2020,"Italy, Turin, Turin",59,ill,"fever, sore throat",dead,nasopharynx
+NEBNext_OAS-6,OAS-6,female,31/3/2020,"Italy, Turin, Turin",59,ill,"fever, sore throat",dead,nasopharynx
+PE300_COVseq_OAS-7,OAS-7,male,31/3/2020,"Italy, Turin, Turin",45,ill,"fever, throat ache, loss of taste, tired",dead,nasopharynx
+PE150_COVseq_OAS-7,OAS-7,male,31/3/2020,"Italy, Turin, Turin",45,ill,"fever, throat ache, loss of taste, tired",dead,nasopharynx
+NEBNext_OAS-7,OAS-7,male,31/3/2020,"Italy, Turin, Turin",45,ill,"fever, throat ache, loss of taste, tired",dead,nasopharynx
+PE300_COVseq_OAS-8,OAS-8,female,31/3/2020,"Italy, Turin, Madonna di Campagna",76,ill,fever,dead,nasopharynx
+PE150_COVseq_OAS-8,OAS-8,f,31/3/2020,"Italy, Turin, Madonna di Campagna",76,ill,fever,dead,nasopharynx
+NEBNext_OAS-8,OAS-8,f,31/3/2020,"Italy, Turin, Madonna di Campagna",76,ill,fever,dead,nasopharynx
+PE300_COVseq_OAS-9,OAS-9,Female,31/3/2020,"Italy, Turin, Turin",49,ill,fatigue,dead,laryngopharynx
+PE150_COVseq_OAS-9,OAS-9,Female,31/3/2020,"Italy, Turin, Turin",49,ill,fatigue,dead,laryngopharynx
+NEBNext_OAS-9,OAS-9,female,31/3/2020,"Italy, Turin, Turin",49,ill,fatigue,dead,laryngopharynx
+TN9,supernatant-1,Female,31/3/2020,"Italy, Turin, Turin",48,ill,not applicable,dead,
+MS65,supernatant-1,female,31/3/2020,"Italy, Turin, Turin",48,ill,not applicable,dead,
+MS47,supernatant-1,female,31/3/2020,"Italy, Turin, Turin",48,ill,not applicable,dead,
+MS45,supernatant-1,female,31/3/2020,"Italy, Turin, Turin",48,ill,not applicable,dead,
