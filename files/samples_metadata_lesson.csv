@@ -1,4 +1,4 @@
-sample id,patient id,sex,date,geographic location,age,health state,symptoms,disease outcome,tissue
+sample id,patient id,sex,date,location,age,health state,symptoms,disease outcome,tissue
 PE300_COVseq_OAS-1,OAS-1,female,31 March,"Italy, Turin, Nizza Millefonti",48,ill,"fever, sore throat",dead,laryngopharynx
 PE150_COVseq_OAS-1,OAS-1,Female,32 March,"Italy, Turin, Nizza Millefonti",48,ill,"fever, sore throat",dead,laryngopharynx
 NEBNext_OAS-1,OAS-1,female,33 March,"Italy, Turin, Nizza Millefonti",48,ill,"fever, sore throat",dead,laryngopharynx
