@@ -15,7 +15,7 @@ As you noticed in the previous excercise, the ENA checklist did not specify any 
 
 As we have said earlier, there are hundreds of metadata standards, controlled vocabularies and ontologies in the Life Sciences alone. So how do you find the ones that are appropriate for your data? Fortunately, there are tools and resources to help you with this.
 
-[FAIRsharing.org](https://fairsharing.org) is a resource that aims at collecting and connecting existing standards, databases. Use it to find recommended standards for different research domains and databases.
+[FAIRsharing.org](https://fairsharing.org) is a resource that aims at collecting and connecting existing standards and databases. Use it to find recommended standards for different research domains and databases.
 
 The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes availble a [set of resources for ontologies](https://www.ebi.ac.uk/spot/ontology/), e.g.:
 
