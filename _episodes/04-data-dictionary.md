@@ -41,7 +41,6 @@ It is good practice to make a **data dictionary** for your metadata. This is a f
 > > | symptoms |  |  | fever, sore throat, fatigue, loss of taste, not applicable | Symptoms experienced in connection with illness |  |
 > > | disease outcome |  |  | healthy, dead | Final outcome of disease |  |
 > > | tissue |  |  |  | Tissue sampled |  |
-> > | experiment type |  |  |  |  |  |
 > >
 > {: .solution}
 {: .challenge}
@@ -77,7 +76,6 @@ If you plan to deposit your data in a public repository (and you should) this is
 > > | symptoms | **illness symptoms** |  | fever, sore throat, fatigue, loss of taste or smell, not applicable | Symptoms experienced in connection with illness |  |
 > > | disease outcome | **host disease outcome** |  | **recovered**, dead | Final outcome of disease |  |
 > > | tissue | **isolation source host-associated** |  |  | Tissue sampled |  |
-> > | experiment type |  |  |  |  |  |
 > > | **isolate** | **isolate** |  |  | **individual isolate from which the sample was obtained** |  |
 > >
 > {: .solution}

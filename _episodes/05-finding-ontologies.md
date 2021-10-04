@@ -69,7 +69,6 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 > > | symptoms | **illness symptoms** |  | **NCIT ontology: <br>Fever (NCIT:C3038), Sore Throat (NCIT:C50747), Fatigue (NCIT:C3036), Ageusia (NCIT:C116374), not applicable** | Symptoms experienced in connection with illness |  |
 > > | disease outcome | **host disease outcome** |  | **recovered**, dead | Final outcome of disease |  |
 > > | tissue | **isolation source host-associated** |  | **FMA ontology:<br>Laryngopharynx (FMA:54880), Nasopharynx (FMA:54878), Lung (FMA:7195)** | Tissue sampled |  |
-> > | experiment type |  |  |  |  |  |
 > > | **isolate** | **isolate** |  |  | **individual isolate from which the sample was obtained** |  |
 > >
 > {: .solution}
