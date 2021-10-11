@@ -8,24 +8,6 @@ root: .
 The instructional content of this lesson an adaptation of previous works and is made available under [CC-BY 4.0][cc-by-human] 
 by [NBIS - National Bioinformatics Infrastructure Sweden][nbis-site] 2020–{{ 'now' | date: "%Y"}}.
 
-Adaptation of lesson [FIXME: name of lesson](url)<br>
-Licensed under [CC-BY 4.0][cc-by-human] 2018–{{ 'now' | date: "%Y"}}
-by <a href="{{ site.carpentries_site }}">The Carpentries</a><br>
-Licensed under [CC-BY 4.0][cc-by-human] 2016–2018
-by <a href="{{ site.dc_site }}">Data Carpentry</a>
-
-Adaptation of lesson [FIXME: name of lesson](url)<br>
-Licensed under [CC-BY 4.0][cc-by-human] 2018–{{ 'now' | date: "%Y"}}
-by <a href="{{ site.carpentries_site }}">The Carpentries</a><br>
-Licensed under [CC-BY 4.0][cc-by-human] 2016–2018
-by <a href="{{ site.dc_site }}">Data Carpentry</a>
-
-Adaptation of lesson [FIXME: name of lesson](url)<br>
-Licensed under [CC-BY 4.0][cc-by-human] 2018–{{ 'now' | date: "%Y"}}
-by <a href="{{ site.carpentries_site }}">The Carpentries</a><br>
-Licensed under [CC-BY 4.0][cc-by-human] 2016–2018
-by <a href="{{ site.swc_site }}">Software Carpentry Foundation</a>
-
 Using a rebranded fork of [The Carpentries style][styles].
 
 The following is a human-readable summary of
