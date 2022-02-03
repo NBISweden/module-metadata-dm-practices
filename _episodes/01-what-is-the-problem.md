@@ -26,6 +26,15 @@ Some of this information might describe the particulars of a whole study. Some o
 - Geolocation(s) of samples
 - Licence for re-use of the data
 
+Metadata is used and/or generated throughout the whole of the research data life cycle. From the planning stage when you decide on the (meta)data you need to perform the project, over collecting, organising, and using it for analysis, to describing the data for preservation and sharing, and for understanding published datasets for reuse.
+
+![Metadata in the research data life cycle](../fig/metadata-in-life-cycle.jpg)
+*[RDM life cycle, by ELIXIR RDMkit](https://rdmkit.elixir-europe.org/images/data_life_cycle.png)*
+
+Metadata are absolutely central to the FAIR principles. Data can not be FAIR without good metadata.
+![Metadata in the research data life cycle](../fig/metadata-in-fair-principles.jpg)
+*from Wilkinson, Mark et al. “The FAIR Guiding Principles for scientific data management and stewardship”. Scientific Data 3, Article number: 160018 (2016) [http://dx.doi.org/10.1038/sdata.2016.18](http://dx.doi.org/10.1038/sdata.2016.18)*
+
 > ## Challenge
 >
 > If you have not done so already, create a folder on your computer for the course
