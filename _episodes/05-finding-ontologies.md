@@ -47,10 +47,10 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 > >
 > > **isolation source host-associated**
 > > * Go to FAIRsharing.org
-> > * Go to "Standards"
-> > * Search for "anatomy"
+> > * Click STANDARDS at the top of the page
+> > * Search for "anatomy" on the left hand side of the page
 > > * Find a suitable ontology, e.g. _Foundational Model of Anatomy - **FMA**_, and go to the information page
-> > * Look at the "FMA Ontology Display". Click _View in BioPortal_
+> > * Scroll down to the ADDITIONAL INFORMATION section at the bottom, and click the link to _BioPortal_
 > > * Select the classes tab. Look through the tree of terms, or search for a term in the "Jump to" field
 > > * So **FMA** would be a suitable ontology. See below for the FMA terms for the tissues
 > >
