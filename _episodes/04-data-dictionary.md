@@ -3,7 +3,7 @@ title: "Data dictionary"
 teaching: 5
 exercises: 20
 questions:
-- "How do to document the standards to use?"
+- "How to document the standards to use?"
 objectives:
 - "To understand how to document the standards and conventions to use for my data"
 keypoints:
