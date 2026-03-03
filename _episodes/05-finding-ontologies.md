@@ -76,14 +76,6 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 
 Below is a list for some commonly used ontologies. Please note that this is in no way an exhaustive or a "standard" list.
 
-### "Upper ontologies"
-
-* [Semanticscience Integrated Ontology, SIO](https://bioportal.bioontology.org/ontologies/SIO)
-* [Basic Formal Ontology, BFO](https://bioportal.bioontology.org/ontologies/BFO)
-* [Relations Ontology](https://bioportal.bioontology.org/ontologies/OBOREL)
-* [The Dublin Core (DC) Ontology](http://dublincore.org/)
-
-
 ### "Domain ontologies"
 
 * [Gene Ontology, GO ](http://www.geneontology.org/)
@@ -93,8 +85,3 @@ Below is a list for some commonly used ontologies. Please note that this is in n
 * [Mondo Disease Ontology](https://mondo.monarchinitiative.org)
 * [The Human Phenotype Ontology](https://hpo.jax.org/app/)
 
-
-### "Other ontologies"
-
-* [Research Object Crate, RO-Crate](https://www.researchobject.org/ro-crate/)
-* [Data Catalogue Vocabulary, DCAT](https://www.w3.org/TR/vocab-dcat-3/)
