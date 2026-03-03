@@ -96,5 +96,5 @@ Below is a list for some commonly used ontologies. Please note that this is in n
 
 ### "Other ontologies"
 
-* [Research Object Ontology, RDO](https://www.researchobject.org/initiative/research-object-model/)
+* [Research Object Crate, RO-Crate](https://www.researchobject.org/ro-crate/)
 * [Data Catalogue Vocabulary, DCAT](https://www.w3.org/TR/vocab-dcat-3/)
