@@ -74,7 +74,7 @@ The [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) makes
 > {: .solution}
 {: .challenge}
 
-Below are list for some commonly used ontologies. Please note that this is in no way an exhaustive or a "standard" list.
+Below is a list for some commonly used ontologies. Please note that this is in no way an exhaustive or a "standard" list.
 
 ### "Upper ontologies"
 
